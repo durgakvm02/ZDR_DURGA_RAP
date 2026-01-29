@@ -1,0 +1,5 @@
+@EndUserText.label: 'F'
+define service ZDR_FLIGHT_DETAILS {
+  expose ZDR_I_CONNECTION;
+  expose ZDR_I_FLIGHT;
+}
